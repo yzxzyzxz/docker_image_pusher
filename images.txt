@@ -21,5 +21,4 @@ mysql:8.0.32
 rabbitmq:3.11.9-management
 redis:7.0.8
 chroma:0.5.3
-mysql:8.0
 supersonicbi/supersonic:latest
