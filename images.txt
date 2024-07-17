@@ -1,1 +1,1 @@
-supersonicbi/supersonic:latest
+dinkydocker/dinky-standalone-server:1.0.3-flink1.17
