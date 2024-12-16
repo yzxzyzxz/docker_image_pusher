@@ -1,6 +1,1 @@
-penpotapp/frontend:latest
-penpotapp/backend:latest
-penpotapp/exporter:latest
-postgres:15
-redis:7
-sj26/mailcatcher:latest
+eclipse-temurin:11-jdk-alpine
