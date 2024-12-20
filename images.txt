@@ -1,4 +1,1 @@
-calico/cni:v3.13.1
-calico/pod2daemon-flexvol:v3.13.1
-calico/kube-controllers:v3.13.1
-calico/node:v3.13.1
+nginx/nginx-ingress:1.5.5
