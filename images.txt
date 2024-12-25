@@ -1,1 +1,2 @@
-eclipse-temurin:11.0.24_8-jre
+nacos/nacos-mysql:5.7
+nacos/nacos-server:latest
