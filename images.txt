@@ -1,1 +1,4 @@
-nacos/nacos-server:v2.4.3
+calico/cni:v3.16.10
+calico/pod2daemon-flexvol:v3.16.10
+calico/node:v3.16.10
+calico/kube-controllers:v3.16.10
