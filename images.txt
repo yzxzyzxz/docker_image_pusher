@@ -1,4 +1,2 @@
-calico/cni:v3.16.10
-calico/pod2daemon-flexvol:v3.16.10
-calico/node:v3.16.10
-calico/kube-controllers:v3.16.10
+node:16.20.2
+nginx:1.25.2-alpine
