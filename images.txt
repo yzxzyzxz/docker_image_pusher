@@ -1,2 +1,9 @@
-node:16.20.2
-nginx:1.25.2-alpine
+langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.10
+ubuntu/squid:latest
+certbot/certbot
+nginx:latest
+pingcap/tidb:v8.4.0
