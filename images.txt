@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+commitgo/gitea-ee:23.0.0
