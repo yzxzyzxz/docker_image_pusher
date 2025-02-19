@@ -1,1 +1,1 @@
-commitgo/gitea-ee:23.0.0
+nacos/nacos-server:v2.2.0
