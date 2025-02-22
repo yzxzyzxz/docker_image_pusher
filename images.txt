@@ -1,1 +1,1 @@
-lobehub/lobe-chat:1.61.4
+lobehub/lobe-chat:1.62.6
