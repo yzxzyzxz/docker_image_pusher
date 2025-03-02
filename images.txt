@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+supersonicbi/supersonic:latest
