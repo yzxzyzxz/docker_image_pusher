@@ -1,1 +1,1 @@
-unstructuredio/unstructured:latest
+unstructuredio/unstructured-api:latest
