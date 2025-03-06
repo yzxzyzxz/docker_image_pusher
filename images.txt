@@ -1,1 +1,1 @@
-docker.io/library/node:18-slim
+docker.io/library/node:22-slim
