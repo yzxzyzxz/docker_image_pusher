@@ -1,1 +1,1 @@
-arm64v8/nginx:1.24.0
+langgenius/dify-api:1.0.0@sha256:525f657777ce281666814a102ca0f0af41b8849db224f1958ab64edc17a6598c
