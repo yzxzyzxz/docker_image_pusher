@@ -1,3 +1,1 @@
-langgenius/dify-plugin-daemon:latest-local-linux-arm64
-langgenius/dify-web:latest@sha256:3317e8933f7ed89981f70ec57fa6f9b88d230bdf7835a4d43d9d34c47baef9df
-langgenius/dify-api:latest@sha256:b4561248ea17a9e7aae4026d68e998a8479ffe0bd59ac0bfd312c81ab29b3f81
+mcr.microsoft.com/playwright/python:v1.40.0-jammy-arm64
