@@ -1,1 +1,1 @@
-mcr.microsoft.com/playwright/python:v1.40.0-jammy-arm64
+unclecode/crawl4ai:all-arm64
