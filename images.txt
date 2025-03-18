@@ -1,1 +1,1 @@
-unclecode/crawl4ai:all-arm64
+docker.io/searxng/searxng:latest
