@@ -1,2 +1,2 @@
-langgenius/dify-api:1.1.2
-langgenius/dify-web:1.1.2
+langgenius/dify-sandbox:0.2.11-amd64
+langgenius/dify-plugin-daemon:0.0.6-local-linux-amd64
