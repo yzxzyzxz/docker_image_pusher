@@ -1,1 +1,1 @@
-python:3.12-slim@sha256:d17e22f764452b6a452e3ec775dfc19130654ee2882a86d7ebe81243f0187e3c
+--platform linux/amd64 langgenius/dify-api:1.1.2
