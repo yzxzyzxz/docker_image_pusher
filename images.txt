@@ -1,2 +1,1 @@
-langgenius/dify-api:1.1.3
-langgenius/dify-web:1.1.3
+downloads.unstructured.io/unstructured-io/unstructured-api:latest
