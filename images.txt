@@ -1,1 +1,1 @@
-langgenius/dify-api:1.1.3@sha256:ffeb44e816e0d14b7271dab16486592ad4d7a6fc35609fd97c7bbd7e02fa7fc6
+langgenius/dify-plugin-daemon:main-local-linux-arm64
