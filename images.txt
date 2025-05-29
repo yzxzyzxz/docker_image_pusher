@@ -1,1 +1,1 @@
-sonatype/nexus3:3.80.0
+--platform=linux/arm64 node:16.20.2
