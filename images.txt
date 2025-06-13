@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 nginx:1.25.2-alpine
+--platform=linux/arm64/v8 quay.io/external_storage/nfs-client-provisioner:latest
