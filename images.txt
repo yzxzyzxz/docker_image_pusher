@@ -1,2 +1,1 @@
---platform=linux/arm64/v8 node:16.20.2
 --platform=linux/arm64 nacos/nacos-server:v2.4.3
