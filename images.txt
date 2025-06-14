@@ -1,1 +1,2 @@
---platform=linux/arm64 vbouchaud/nfs-client-provisioner:v3.2.2
+--platform=linux/arm64 rainbond/nfs-client-provisioner:v4.0.2
+--platform=linux/arm64/v8 node:16.20.2
