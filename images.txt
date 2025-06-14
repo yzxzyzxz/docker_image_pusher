@@ -1,1 +1,1 @@
---platform=linux/arm64 kubesphere/nfs-client-provisioner:arm64
+kubesphere/nfs-client-provisioner:arm64
