@@ -1,1 +1,2 @@
 --platform=linux/arm64/v8 eclipse-temurin:11.0.24_8-jre
+traefik:v2.11
