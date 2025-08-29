@@ -1,2 +1,2 @@
 --platform=linux/arm64/v8 eclipse-temurin:11.0.24_8-jre
-jc21/nginx-proxy-manager:2.12.6
+--platform=linux/amd64 python:3.12-slim
