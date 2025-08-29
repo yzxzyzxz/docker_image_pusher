@@ -1,2 +1,2 @@
 --platform=linux/arm64/v8 eclipse-temurin:11.0.24_8-jre
---platform=linux/amd64 python:3.12-slim
+--platform=linux/amd64 python:3.11-slim
