@@ -1,5 +1,5 @@
 --platform=linux/arm64 fruitbars/simple-one-api:v0.9.6
 --platform=linux/arm64 eipwork/metrics-server:v0.6.2
 --platform=linux/arm64 kubernetesui/metrics-scraper:v1.0.9
---platform=linux/arm64 python:3.12.12-slim
 --platform=linux/arm64 python:3.12.12
+--platform=linux/arm64 python:3.12.12-slim
