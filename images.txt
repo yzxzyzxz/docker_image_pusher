@@ -9,4 +9,3 @@ nginx:latest
 semitechnologies/weaviate:1.27.0
 postgres:15-alpine
 redis:6-alpine
-semitechnologies/weaviate:1.27.0
