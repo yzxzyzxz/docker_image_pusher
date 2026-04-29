@@ -1,8 +1,9 @@
---platform=linux/arm64 fruitbars/simple-one-api:v0.9.6
---platform=linux/arm64 eipwork/metrics-server:v0.6.2
---platform=linux/arm64 kubernetesui/metrics-scraper:v1.0.9
---platform=linux/arm64 calciumion/new-api:latest
---platform=linux/arm64/v8 redis:latest
---platform=linux/arm64/v8 postgres:15
---platform=linux/arm64 quay.io/ascend/vllm-ascend:v0.13.0-openeuler
-1panel/openclaw:2026.3.2
+langgenius/dify-api:1.13.3
+busybox:latest
+langgenius/dify-web:1.13.3
+langgenius/dify-sandbox:0.2.14
+langgenius/dify-plugin-daemon:0.5.3-local
+ubuntu/squid:latest
+certbot/certbot
+nginx:latest
+semitechnologies/weaviate:1.27.0
